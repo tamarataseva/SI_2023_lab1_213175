@@ -1,0 +1,36 @@
+commit 56e687e83d4bd8f567677c5ce8c0d2f534749542 (HEAD -> master, origin/master, bug3)
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 14:19:38 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit faecfaa2564ede2e4017c57f3a19228a769c5954
+Merge: 76d66e2 d477d4d
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 15:07:05 2023 +0200
+
+    Merge branch 'bug2'
+
+commit d477d4d8f732f707e8d2794694eea3513f03ae1e (origin/bug2, bug2)
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 14:21:10 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 76d66e2dcbda863ebef60d83e80e290be98ccf43 (origin/bug1, bug1)
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 13:52:06 2023 +0200
+
+    Fix wrong loop for reading
+
+commit b170b4ccd74de5662d84d6fb40a369818bec767f
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 12:08:54 2023 +0200
+
+    Add java class
+
+commit def1d638874e19d36fadf6340ced3e6e6c98197a
+Author: tamarataseva <tamarataseva06@gmail.com>
+Date:   Wed Mar 29 11:47:33 2023 +0200
+
+    Initial commit
